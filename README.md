@@ -1,21 +1,6 @@
 ### Hi there 👋
 
-Multimedia Engineering of with knowledge in Web Development focused on Front End Development, Interface Design (UI) and User Experience (UX).
-
-<!--
-**justoneye/justoneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Multimedia Engineering of with knowledge in Web Development focused on Front End Development, Interface Design (UI) and User Experience (UX).
 
 <a><img width="432" img align="left" alt="Pilar Camargo Márquez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justoneye&show_icons=true&theme=gotham" class="responsive" />
 </a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justoneye&layout=compact&hide=html&theme=gotham" class="responsive"/></a>  
@@ -57,3 +42,34 @@ Here are some ideas to get you started:
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+
+
+
+<!--
+**justoneye/justoneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<div align="center">
+    <a href="https://twitter.com/justoneye">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
+    </a>
+    <a href="https://www.linkedin.com/in/pilarcamargo/">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
+    </a>
+    <a href="https://t.me/">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Telegram" title="Telegram" width="35" height="35">
+    </a>
+</div>
+
