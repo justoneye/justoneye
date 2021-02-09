@@ -66,14 +66,20 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <a href="https://twitter.com/justoneye">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
+    <a href="https://twitter.com/justoneye_">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/main/multimedia/icon-twitter.svg" alt="Twitter" title="Twitter" width="45" height="45">
     </a>
     <a href="https://www.linkedin.com/in/pilarcamargo/">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/main/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="45" height="45">
     </a>
-    <a href="https://t.me/">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Telegram" title="Telegram" width="35" height="35">
+    <a href="http://www.behance.net/justoneye">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/main/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="45" height="45">
+    </a>
+    <a href="https://medium.com/@justoneye">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/main/multimedia/icon-twitter.svg" alt="Medium" title="Medium" width="45" height="45">
+    </a>
+    <a href="https://www.instagram.com/justoneye/">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/main/multimedia/icon-twitter.svg" alt="Instagram" title="Instagram" width="45" height="45">
     </a>
 </div>
 
