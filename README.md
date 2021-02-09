@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/justoneye-banner.jpg" alt="SystemGlitch" width="100%"/>
+</div>
+
 ### Hi there 👋
 
 I'm Multimedia Engineering of with knowledge in Web Development focused on Front End Development, Interface Design (UI) and User Experience (UX).
