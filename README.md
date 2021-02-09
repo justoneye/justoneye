@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/justoneye-banner.jpg" alt="SystemGlitch" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/justoneye-banner.jpg" alt="justoneye peacock banner" width="100%"/>
 </div>
 
 ### Hi there 👋
 
-I'm Multimedia Engineering of with knowledge in Web Development focused on Front End Development, Interface Design (UI) and User Experience (UX).
+I'm Multimedia Engineering with knowledge in Web Development focused on Front End Development, Interface Design (UI) and User Experience (UX).
 
 <a><img width="432" img align="left" alt="Pilar Camargo Márquez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justoneye&show_icons=true&theme=gotham" class="responsive" />
 </a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justoneye&layout=compact&hide=html&theme=gotham" class="responsive"/></a>  
@@ -16,7 +16,6 @@ I'm Multimedia Engineering of with knowledge in Web Development focused on Front
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ### Web Development
 
@@ -29,6 +28,7 @@ I'm Multimedia Engineering of with knowledge in Web Development focused on Front
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=gastby)&nbsp;
 
 ### CMS
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="45" height="45">
     </a>
     <a href="https://medium.com/@justoneye">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-medium.svg" alt="Medium" title="Medium" width="45" height="45">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-twitter.svg" alt="Medium" title="Medium" width="45" height="45">
     </a>
     <a href="https://www.instagram.com/justoneye/">
         <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-instagram.svg" alt="Instagram" title="Instagram" width="45" height="45">
