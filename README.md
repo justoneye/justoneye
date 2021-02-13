@@ -76,10 +76,10 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="45" height="45">
     </a>
     <a href="https://medium.com/@justoneye">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-twitter.svg" alt="Medium" title="Medium" width="45" height="45">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-medium.svg" alt="Medium" title="Medium" width="45" height="45">
     </a>
-    <a href="https://www.instagram.com/justoneye/">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-instagram.svg" alt="Instagram" title="Instagram" width="45" height="45">
+    <a href="mailto:ing.pilarcamargo@gmail.com">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="45" height="45">
     </a>
 </div>
 
