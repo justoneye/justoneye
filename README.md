@@ -4,20 +4,21 @@
 
 ### Hi there 👋
 
-I'm Multimedia Engineering student with knowledge in Web Development focused on Front End Development, Interface Design (UI) and User Experience (UX).
+🦚 I'm Multimedia Engineering student with knowledge in Web Development focused on Front End Development, Interface Design (UI) and User Experience (UX).
 
 <a><img width="432" img align="left" alt="Pilar Camargo Márquez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justoneye&show_icons=true&theme=gotham" class="responsive" />
 </a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justoneye&layout=compact&hide=html&theme=gotham" class="responsive"/></a>  
 
 I also have skills in: 
 <ul>
-  <li>Photography</li>
-  <li>2D: Illustration and Animation</li>
-  <li>3D: Modeling, Texturing, Animation and Rendering</li>
-  <li>Audio and video editing</li>
-  <li>Software engineering</li>
-  <li>Project management</li>
-  <li>Information analysis</li>
+  <li> 📸 &nbsp; Photography</li>
+  <li> ✏️ &nbsp; 2D: Illustration and Animation</li>
+  <li> 👾 &nbsp; 3D: Modeling, Texturing, Animation and Rendering</li>
+  <li> 🎥 &nbsp; Audio and video editing</li>
+  <li> 🎞️ &nbsp; Motion Graphics </li>
+  <li> 🗂️ &nbsp; Software engineering</li>
+  <li> 📋 &nbsp; Project management</li>
+  <li> 📈 &nbsp; Information and data analysis</li>
 </ul>
 
 ## 🛠 &nbsp;Tech Stack
