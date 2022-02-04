@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/justoneye-banner.jpg" alt="justoneye peacock banner" width="100%"/>
 </div>
 
-# 👋 Hi  
+# 👋 Hi, my name is Pilar  
 
 🦚 I'm a Multimedia Engineer and I have experience in Front End Development, Interface Design (UI) and User Experience (UX) working for multinationals from different sectors. I've been part of specialized teams in design and tech development to create, enhance and improve digital products and services.
 
