@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/justoneye-banner.jpg" alt="justoneye peacock banner" width="100%"/>
 </div>
 
-# 👋 Hi, my name is Pilar  
+# 👋 Hi  
 
 🦚 I'm a Multimedia Engineer and I have experience in Front End Development, Interface Design (UI) and User Experience (UX) working for multinationals from different sectors. I've been part of specialized teams in design and tech development to create, enhance and improve digital products and services.
 
@@ -42,6 +42,10 @@ I also have skills in:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+## 🖥️ Tools 
+https://camo.githubusercontent.com/a87e5aa7e0e53d9ac0259655a4a4ac9c8002943af1e2ea9a531d0b1119843700/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f6f676c652b447269766526636f6c6f723d343238354634266c6f676f3d476f6f676c652b4472697665266c6f676f436f6c6f723d464646464646266c6162656c3d
 
 
 <!--
