@@ -6,8 +6,8 @@
 
 🦚 I'm a Multimedia Engineer and I have experience in Front End Development, Interface Design (UI) and User Experience (UX) working for multinationals from different sectors. I've been part of specialized teams in design and tech development to create, enhance and improve digital products and services.
 
-<a><img width="432" img align="left" alt="Pilar Camargo Márquez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justoneye&show_icons=true&theme=gotham" class="responsive" />
-</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justoneye&layout=compact&hide=html&theme=gotham" class="responsive"/></a>  
+<a><img width="432" img align="left" alt="Pilar Camargo Márquez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justoneye&show_icons=true&theme=cobalt2" class="responsive" />
+</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justoneye&layout=compact&hide=html&theme=cobalt2" class="responsive"/></a>  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=justoneye&theme=deepBlue&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=DDB03E&currStreakNum=DDB03E&fire=DDB03E)](https://git.io/streak-stats)
 
 I also have skills in: 
