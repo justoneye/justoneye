@@ -4,11 +4,31 @@
 
 # 👋 Hi  
 
+<div align="left">
+    <a href="https://twitter.com/justoneye_">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-twitter.svg" alt="Twitter" title="Twitter" width="24" height="24">
+    </a>
+    <a href="https://www.linkedin.com/in/pilarcamargo/">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24">
+    </a>
+    <a href="http://www.behance.net/justoneye">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="24" height="24">
+    </a>
+    <a href="https://medium.com/@justoneye">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-medium.svg" alt="Medium" title="Medium" width="24" height="24">
+    </a>
+    <a href="mailto:ing.pilarcamargo@gmail.com">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="24" height="24">
+    </a>
+</div>
+
 🦚 I'm a Multimedia Engineer and I have experience in Front End Development, Interface Design (UI) and User Experience (UX) working for multinationals from different sectors. I've been part of specialized teams in design and tech development to create, enhance and improve digital products and services.
 
 <a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justoneye&layout=compact&hide=html&theme=cobalt2" class="responsive"/></a>
 <a><img width="432" img align="left" alt="Pilar Camargo Márquez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justoneye&show_icons=true&theme=cobalt2" class="responsive" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=justoneye&theme=deepBlue&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=DDB03E&currStreakNum=DDB03E&fire=DDB03E)](https://git.io/streak-stats)
+
+<br />
 
 I also have skills in: 
 <ul>
@@ -22,6 +42,10 @@ I also have skills in:
   <li> 📈 &nbsp; Information and data analysis</li>
 </ul>
 
+<br />
+<br />
+<br />
+
 ## 🧰 Tech Stack 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
@@ -33,6 +57,7 @@ I also have skills in:
 ![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=663399&logo=Gatsby&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 
+<br />
 
 ## 🖥️ Software 
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=FF61F6&logo=Adobe+XD&logoColor=FFFFFF&label=)
@@ -46,6 +71,7 @@ I also have skills in:
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
+<br />
 
 ## 🛠️ Tools 
 ![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=)
@@ -69,23 +95,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 📫 &nbsp;More info about me
-
-<div align="center">
-    <a href="https://twitter.com/justoneye_">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-twitter.svg" alt="Twitter" title="Twitter" width="45" height="45">
-    </a>
-    <a href="https://www.linkedin.com/in/pilarcamargo/">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="45" height="45">
-    </a>
-    <a href="http://www.behance.net/justoneye">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="45" height="45">
-    </a>
-    <a href="https://medium.com/@justoneye">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-medium.svg" alt="Medium" title="Medium" width="45" height="45">
-    </a>
-    <a href="mailto:ing.pilarcamargo@gmail.com">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="45" height="45">
-    </a>
-</div>
