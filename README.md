@@ -52,7 +52,6 @@ I also have skills in:
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
 <br />
@@ -60,6 +59,11 @@ I also have skills in:
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=663399&logo=Gatsby&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+<br />
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&message=Ant+Design&color=0170FE&logo=Ant+Design&logoColor=FFFFFF&label=)
+![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
+![Material Design Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design+Icons&color=2196F3&logo=Material+Design+Icons&logoColor=FFFFFF&label=)
 
 <br />
 
