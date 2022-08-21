@@ -54,6 +54,7 @@ I also have skills in:
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
 <br />
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
@@ -79,8 +80,15 @@ I also have skills in:
 ## 🛠️ Tools 
 ![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=)
 ![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
+![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
+![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
+![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
+<br />
 ![ClickUp](https://img.shields.io/static/v1?style=for-the-badge&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
+![Jira Software](https://img.shields.io/static/v1?style=for-the-badge&message=Jira+Software&color=0052CC&logo=Jira+Software&logoColor=FFFFFF&label=)
+![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 
 
