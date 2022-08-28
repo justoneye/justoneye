@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/justoneye-banner.jpg" alt="justoneye peacock banner" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/justoneye-banner" alt="justoneye peacock banner" width="100%"/>
 </div>
 
 # 🦚 Hi, I'm Pilar   
