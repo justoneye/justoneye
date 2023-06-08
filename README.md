@@ -104,6 +104,9 @@ I also have skills in:
 ![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 
+<br />
+
+
 
 <!--
 **justoneye/justoneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -118,4 +121,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## 🛠️ UX Tools 
+
+|||---|||
+#### Columns
+
+can save space.
+
+#### Prettify
+
+the page layout.
+
+*** promo
+#### Can be
+
+trendy.
+***
+|||---|||
+
+|||---||| :6,3
+#### Right
+|||---|||
 -->
