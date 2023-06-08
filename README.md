@@ -24,14 +24,14 @@
 
 <br />
 
-I'm a Multimedia Engineer and I have experience in Front End Development, Interface Design (UI) and User Experience (UX) working for multinationals from different sectors. I've been part of specialized teams in design and tech development to create, enhance and improve digital products and services.
+I'm a `Multimedia Engineer` and I have experience in `Front End Development`, `Interface Design (UI)` and `User Experience (UX)` working for multinationals from different sectors. I've been part of specialized teams in design and tech development to create, enhance and improve digital products and services.
 
 I also have skills in: 
 <ul>
-  <li> 🔎 &nbsp; Research</li>
   <li> 📋 &nbsp; Project management</li>
   <li> 🗂️ &nbsp; Software engineering</li>
   <li> 📈 &nbsp; Information and data analysis</li>
+  <li> 🔎 &nbsp; Research</li>
   <li> 📸 &nbsp; Photography</li>
   <li> ✏️ &nbsp; 2D: Illustration and Animation</li>
   <li> 👾 &nbsp; 3D: Modeling, Texturing, Animation and Rendering</li>
