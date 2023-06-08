@@ -28,15 +28,16 @@ I'm a `Multimedia Engineer` and I have experience in `Front End Development`, `I
 
 I also have skills in: 
 <ul>
+  <li> 👩‍🏫 &nbsp; Mentoring</li>
   <li> 📋 &nbsp; Project management</li>
   <li> 🗂️ &nbsp; Software engineering</li>
   <li> 📈 &nbsp; Information and data analysis</li>
   <li> 🔎 &nbsp; Research</li>
   <li> 📸 &nbsp; Photography</li>
-  <li> ✏️ &nbsp; 2D: Illustration and Animation</li>
-  <li> 👾 &nbsp; 3D: Modeling, Texturing, Animation and Rendering</li>
   <li> 🎥 &nbsp; Audio and video editing</li>
   <li> 🎞️ &nbsp; Motion Graphics </li>
+  <li> ✏️ &nbsp; 2D: Illustration and Animation</li>
+  <li> 👾 &nbsp; 3D: Modeling, Texturing, Animation and Rendering</li>
 </ul>
 
 <br />
