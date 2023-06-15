@@ -31,7 +31,7 @@ I also have skills in:
   <li> 👩‍🏫 &nbsp; Mentoring</li>
   <li> 📋 &nbsp; Project management</li>
   <li> 🗂️ &nbsp; Software engineering</li>
-  <li> 📈 &nbsp; Information and data analysis</li>
+  <li> 📈 &nbsp; Data analysis</li>
   <li> 🔎 &nbsp; Research</li>
   <li> 📸 &nbsp; Photography</li>
   <li> 🎥 &nbsp; Audio and video editing</li>
