@@ -23,16 +23,16 @@
 </div>
 
 <br />
-
-I'm a `Multimedia Engineer` and I have experience in `Front End Development`, `Interface Design (UI)` and `User Experience (UX)` working for multinationals from different sectors. I've been part of specialized teams in design and tech development to create, enhance and improve digital products and services.
+I’m a `Multimedia Engineer` and I’m passionate about create, enhance and improve digital experiences. I work in  `User Experience (UX)` and `Front End Development`, in addition to perfecting`Interface Design (UI)`. I’ve had the opportunity to work with teams from other countries for multinationals from different sectors and I’ve been part of teams specialized in design, marketing and web development for incredible digital products.
 
 I also have skills in: 
 <ul>
   <li> 👩‍🏫 &nbsp; Mentoring</li>
   <li> 📋 &nbsp; Project management</li>
   <li> 🗂️ &nbsp; Software engineering</li>
-  <li> 📈 &nbsp; Data analysis</li>
-  <li> 🔎 &nbsp; Research</li>
+  <li> 📈 &nbsp;Design Thinking</li>
+  <li> 🧠 &nbsp; Data analysis</li>
+  <li> 💼 &nbsp; Agile methodologies</li>
   <li> 📸 &nbsp; Photography</li>
   <li> 🎥 &nbsp; Audio and video editing</li>
   <li> 🎞️ &nbsp; Motion Graphics </li>
@@ -58,25 +58,22 @@ I also have skills in:
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
-<br />
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=663399&logo=Gatsby&logoColor=FFFFFF&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-<br />
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&message=Ant+Design&color=0170FE&logo=Ant+Design&logoColor=FFFFFF&label=)
 ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 ![Material Design Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design+Icons&color=2196F3&logo=Material+Design+Icons&logoColor=FFFFFF&label=)
-<br />
 ![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)
-![Google Tag Manager](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Tag+Manager&color=246FDB&logo=Google+Tag+Manager&logoColor=FFFFFF&label=)
 ![Looker](https://img.shields.io/static/v1?style=for-the-badge&message=Looker&color=4285F4&logo=Looker&logoColor=FFFFFF&label=)
 
 
 <br />
 
 ## 🖥️ Software 
+
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=FF61F6&logo=Adobe+XD&logoColor=FFFFFF&label=)
 ![Adobe InDesign](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+InDesign&color=FF3366&logo=Adobe+InDesign&logoColor=FFFFFF&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
@@ -84,7 +81,6 @@ I also have skills in:
 ![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Adobe Audition](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Audition&color=9999FF&logo=Adobe+Audition&logoColor=FFFFFF&label=)
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
