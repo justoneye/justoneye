@@ -23,6 +23,8 @@
 </div>
 
 <br />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Droid+Sans+Mono&size=24&pause=2000&color=0071BC&random=false&width=925&lines=UI%2FUX+Designer+%E2%80%A2+Front+End+Developer+%E2%80%A2+Multimedia+Engineer;Dise%C3%B1adora+UI%2FUX+%E2%80%A2+Desarrolladora+Front+End+%E2%80%A2+Ingeniera+en+Multimedia" alt="Typing SVG" /></a>
+<br />
 I’m a `Multimedia Engineer` and I’m passionate about create, enhance and improve digital experiences. I work in  `User Experience (UX)` and `Front End Development`, in addition to perfecting`Interface Design (UI)`. I’ve had the opportunity to work with teams from other countries for multinationals from different sectors and I’ve been part of teams specialized in design, marketing and web development for incredible digital products.
 
 I also have skills in: 
@@ -44,13 +46,9 @@ I also have skills in:
 
 <a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justoneye&layout=compact&hide=html&theme=cobalt2" class="responsive"/></a>
 <br /><br />
-<a><img width="432" img align="left" alt="Pilar Camargo Márquez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justoneye&show_icons=true&theme=cobalt2" class="responsive" /></a>
-<br /><br /><br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=justoneye&theme=deepBlue&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=DDB03E&currStreakNum=DDB03E&fire=DDB03E)](https://git.io/streak-stats)
 
-<br />
-<br />
-<br />
+<br /><br />
 
 ## 🧰 Tech Stack 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -96,7 +94,6 @@ I also have skills in:
 ![ClickUp](https://img.shields.io/static/v1?style=for-the-badge&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
-![Jira Software](https://img.shields.io/static/v1?style=for-the-badge&message=Jira+Software&color=0052CC&logo=Jira+Software&logoColor=FFFFFF&label=)
 ![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 
