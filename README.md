@@ -91,29 +91,14 @@ I also have skills in:
 ![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
-<br />
+
+<br /><br /><br />
 
 ---
-
-<a href="https://twitter.com/justoneye_">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-twitter.svg" alt="Twitter" title="Twitter" width="24" height="24">
-    </a>
-    <a href="https://www.linkedin.com/in/pilarcamargo/">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24">
-    </a>
-    <a href="http://www.behance.net/justoneye">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="24" height="24">
-    </a>
-    <a href="https://medium.com/@justoneye">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-medium.svg" alt="Medium" title="Medium" width="24" height="24">
-    </a>
-    <a href="mailto:ing.pilarcamargo@gmail.com">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="24" height="24">
-    </a>
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> [https://about.me/justoneye/](https://about.me/justoneye/) &nbsp;&middot;&nbsp;
+> <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="14" height="14"> [LinkedIn](https://www.linkedin.com/in/pilarcamargo/)  &nbsp;&middot;&nbsp;
+> <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="14" height="14"> [Behance](http://www.behance.net/justoneye)  &nbsp;&middot;&nbsp;
+> <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="14" height="14"> [E-mail](mailto:ing.pilarcamargo@gmail.com)  &nbsp;&middot;&nbsp;
 
 <!--
 
