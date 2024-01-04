@@ -25,7 +25,8 @@
 <br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Droid+Sans+Mono&size=24&pause=2000&color=0071BC&random=false&width=925&lines=UI%2FUX+Designer+%E2%80%A2+Front+End+Developer+%E2%80%A2+Multimedia+Engineer;Dise%C3%B1adora+UI%2FUX+%E2%80%A2+Desarrolladora+Front+End+%E2%80%A2+Ingeniera+en+Multimedia" alt="Typing SVG" /></a>
 <br />
-I’m a `Multimedia Engineer` and I’m passionate about create, enhance and improve digital experiences. I work in  `User Experience (UX)` and `Front End Development`, in addition to perfecting`Interface Design (UI)`. I’ve had the opportunity to work with teams from other countries for multinationals from different sectors and I’ve been part of teams specialized in design, marketing and web development for incredible digital products.
+
+I’m a Multimedia Engineer and I’m passionate about ***create, enhance and improve digital experiences***. I work in `User Experience (UX)` and `Front End Development`, in addition to perfecting `Interface Design (UI)`. I’ve had the opportunity to work with teams from other countries for multinationals from different sectors and I’ve been part of teams specialized in design, marketing and web development for incredible digital products.
 <br /><br />
 I also have skills in: 
 <ul>
