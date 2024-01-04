@@ -94,33 +94,8 @@ I also have skills in:
 
 <br /><br /><br />
 
----
-> [https://about.me/justoneye/](https://about.me/justoneye/) &nbsp;&middot;&nbsp;
+
+> 🦚 &nbsp;&middot;&nbsp; [https://about.me/justoneye/](https://about.me/justoneye/) &nbsp;&middot;&nbsp;
 > <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="14" height="14"> [LinkedIn](https://www.linkedin.com/in/pilarcamargo/)  &nbsp;&middot;&nbsp;
 > <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="14" height="14"> [Behance](http://www.behance.net/justoneye)  &nbsp;&middot;&nbsp;
-> <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="14" height="14"> [E-mail](mailto:ing.pilarcamargo@gmail.com)  &nbsp;&middot;&nbsp;
-
-<!--
-
-## 🛠️ UX Tools 
-
-|||---|||
-#### Columns
-
-can save space.
-
-#### Prettify
-
-the page layout.
-
-*** promo
-#### Can be
-
-trendy.
-***
-|||---|||
-
-|||---||| :6,3
-#### Right
-|||---|||
--->
+> <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="14" height="14"> [E-mail](mailto:ing.pilarcamargo@gmail.com)  &nbsp;&middot;&nbsp; 🦚
