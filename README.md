@@ -14,9 +14,6 @@
     <a href="http://www.behance.net/justoneye">
         <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="24" height="24">
     </a>
-    <a href="https://medium.com/@justoneye">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-medium.svg" alt="Medium" title="Medium" width="24" height="24">
-    </a>
     <a href="mailto:ing.pilarcamargo@gmail.com">
         <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="24" height="24">
     </a>
@@ -96,22 +93,29 @@ I also have skills in:
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
 <br />
 
+---
 
+<a href="https://twitter.com/justoneye_">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-twitter.svg" alt="Twitter" title="Twitter" width="24" height="24">
+    </a>
+    <a href="https://www.linkedin.com/in/pilarcamargo/">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24">
+    </a>
+    <a href="http://www.behance.net/justoneye">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="24" height="24">
+    </a>
+    <a href="https://medium.com/@justoneye">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-medium.svg" alt="Medium" title="Medium" width="24" height="24">
+    </a>
+    <a href="mailto:ing.pilarcamargo@gmail.com">
+        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="24" height="24">
+    </a>
+
+> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
+> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
 
 <!--
-**justoneye/justoneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 ## 🛠️ UX Tools 
 
