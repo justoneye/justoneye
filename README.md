@@ -4,19 +4,6 @@
 
 # 🦚 Hi, I'm Pilar   
 
-<div align="left">
-    <a href="https://www.linkedin.com/in/pilarcamargo/">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24">
-    </a>
-    <a href="http://www.behance.net/justoneye">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="24" height="24">
-    </a>
-    <a href="mailto:ing.pilarcamargo@gmail.com">
-        <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="24" height="24">
-    </a>
-</div>
-
-<br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Droid+Sans+Mono&size=24&pause=2000&color=0071BC&random=false&width=925&lines=UI%2FUX+Designer+%E2%80%A2+Front+End+Developer+%E2%80%A2+Multimedia+Engineer;Dise%C3%B1adora+UI%2FUX+%E2%80%A2+Desarrolladora+Front+End+%E2%80%A2+Ingeniera+en+Multimedia" alt="Typing SVG" /></a>
 <br />
 
