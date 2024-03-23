@@ -33,13 +33,11 @@ I also have skills in:
 ```javascript
 const Pilar = {
    code: ["Javascript", "HTML", "CSS", "Typescript"],
-   design: ["Figma", "FigJam", "Miro", "Balsamiq", "Adobe Creative"],
+   design: ["Figma", "FigJam", "Miro", "Adobe Suite"],
    technologies: {
       frontEnd: {
          js: ["React.js", "Next.js", "Gatsby"],
-         ts: ["Angular+10", "React.js"],
-         css: ["Bootstrap", "Material UI", "Material Design", "Ant Design"],
-         UI: ["Bootstrap"],
+         ui: ["Bootstrap", "Material UI", "Material Design", "Ant Design"],
       },
       software: {
          code: "Visual Studio Code",
