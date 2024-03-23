@@ -11,18 +11,14 @@ I’m a Multimedia Engineer and I’m passionate about ***create, enhance and im
 <br /><br />
 I also have skills in: 
 <ul>
-  <li> 👩‍🏫 &nbsp; Mentoring</li>
   <li> 📋 &nbsp; Documentation</li>
   <li> 💼 &nbsp; Project management</li>
   <li> 🗂️ &nbsp; Software engineering</li>
-  <li> 📈 &nbsp;Design Thinking</li>
-  <li> 🧠 &nbsp; Data analysis</li>
+  <li> 📏 &nbsp; Design Thinking</li>
+  <li> 📊 &nbsp; Data analysis</li>
   <li> 🔂 &nbsp; Agile methodologies</li>
-  <li> 📸 &nbsp; Photography</li>
-  <li> 🎥 &nbsp; Audio and video editing</li>
   <li> 🎞️ &nbsp; Motion Graphics </li>
-  <li> 👾 &nbsp; 3D: Modeling, Texturing, Animation and Rendering</li>
-  <li> ✏️ &nbsp; 2D: Illustration and Animation</li>
+  <li> 👩‍🏫 &nbsp; Mentoring</li>
 </ul>
 
 <br />
@@ -54,8 +50,7 @@ const Pilar = {
 };
 ```
 
-<br />
-<br />
+<br /><br />
 
 ## 🛠️ Tools 
 ![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=)
@@ -73,7 +68,6 @@ const Pilar = {
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
 
 <br /><br />
-
 
 > 🦚 &nbsp;&middot;&nbsp; [https://about.me/justoneye/](https://about.me/justoneye/) &nbsp;&middot;&nbsp;
 > <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/pilarcamargo/)  &nbsp;&middot;&nbsp;
