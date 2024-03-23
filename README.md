@@ -34,33 +34,27 @@ I also have skills in:
 <br /><br />
 
 ## 🧰 Tech Stack 
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=663399&logo=Gatsby&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
-![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
-![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&message=Ant+Design&color=0170FE&logo=Ant+Design&logoColor=FFFFFF&label=)
-![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
-![Material Design Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design+Icons&color=2196F3&logo=Material+Design+Icons&logoColor=FFFFFF&label=)
+```javascript
+const Pilar = {
+   code: ["Javascript", "HTML", "CSS", "Typescript"],
+   design: ["Figma", "FigJam", "Miro", "Balsamiq", "Adobe Creative"],
+   technologies: {
+      frontEnd: {
+         js: ["React.js", "Next.js", "Gatsby"],
+         ts: ["Angular+10", "React.js"],
+         css: ["Bootstrap", "Material UI", "Material Design", "Ant Design"],
+         UI: ["Bootstrap"],
+      },
+      software: {
+         code: "Visual Studio Code",
+         git: ["GitHub", "GitLab", "Bitbucket"],
+        cms: ["Contentful", "Webflow", "WordPress"],
+      }
+   }
+};
+```
 
 <br />
-
-## 🖥️ Software 
-
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
-![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
-![Contentful](https://img.shields.io/static/v1?style=for-the-badge&message=Contentful&color=2478CC&logo=Contentful&logoColor=FFFFFF&label=)
-![Webflow](https://img.shields.io/static/v1?style=for-the-badge&message=Webflow&color=146EF5&logo=Webflow&logoColor=FFFFFF&label=)
-![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)
-![Looker](https://img.shields.io/static/v1?style=for-the-badge&message=Looker&color=4285F4&logo=Looker&logoColor=FFFFFF&label=)
-![Adobe Creative Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Creative+Cloud&color=DA1F26&logo=Adobe+Creative+Cloud&logoColor=FFFFFF&label=)
-![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
-
 <br />
 
 ## 🛠️ Tools 
@@ -68,6 +62,9 @@ I also have skills in:
 ![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
 ![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
 ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
+![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)
+![Looker](https://img.shields.io/static/v1?style=for-the-badge&message=Looker&color=4285F4&logo=Looker&logoColor=FFFFFF&label=)
+![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ![ClickUp](https://img.shields.io/static/v1?style=for-the-badge&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
