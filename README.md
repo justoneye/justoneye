@@ -11,14 +11,13 @@ I’m a Multimedia Engineer and I’m passionate about ***create, enhance and im
 <br /><br />
 I also have skills in: 
 <ul>
+  <li> 📏 &nbsp; Design Thinking</li>
+  <li> 📊 &nbsp; Data analysis</li>
   <li> 📋 &nbsp; Documentation</li>
   <li> 💼 &nbsp; Project management</li>
   <li> 🗂️ &nbsp; Software engineering</li>
-  <li> 📏 &nbsp; Design Thinking</li>
-  <li> 📊 &nbsp; Data analysis</li>
   <li> 🔂 &nbsp; Agile methodologies</li>
-  <li> 🎞️ &nbsp; Motion Graphics </li>
-  <li> 👩‍🏫 &nbsp; Mentoring</li>
+  <li> 👩‍🏫 &nbsp; Mentoring and Teaching</li>
 </ul>
 
 <br />
