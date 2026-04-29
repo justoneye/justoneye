@@ -66,7 +66,8 @@ const Pilar = {
 
 <br /><br />
 
-> 🦚 &nbsp;&middot;&nbsp; [https://about.me/justoneye/](https://about.me/justoneye/) &nbsp;&middot;&nbsp;
-> <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/pilarcamargo/)  &nbsp;&middot;&nbsp;
-> <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="16" height="16"> [Behance](http://www.behance.net/justoneye)  &nbsp;&middot;&nbsp;
-> <img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="16" height="16"> [E-mail](mailto:ing.pilarcamargo@gmail.com)
+### Contact with me 🦚:
+- [👩🏽‍💻 about.me](https://about.me/justoneye/)
+- [<img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-linkedin.svg" alt="LinkedIn" title="LinkedIn" width="16" height="16"> pilarcamargo](https://www.linkedin.com/in/pilarcamargo/)
+- [<img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-behance.svg" alt="Behance" title="Behance" width="16" height="16"> justoneye](http://www.behance.net/justoneye)
+- [<img src="https://raw.githubusercontent.com/justoneye/justoneye/master/multimedia/icon-mail.svg" alt="Mail @ Gmail" title="Mail @ Gmail" width="16" height="16"> ing.pilarcamargo@gmail.com](mailto:ing.pilarcamargo@gmail.com)
